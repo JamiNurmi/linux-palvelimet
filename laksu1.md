@@ -7,4 +7,4 @@
 - Alla vielä pyydetty kuva
 
   
-   ![Add file: Upload](Debianss.png)
+   ![Add file: Upload](Debianss.jpg)
